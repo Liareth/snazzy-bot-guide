@@ -5,7 +5,7 @@
 
 Prompts are comprised of two components: the *prompt* and the *negative-prompt*. The *prompt* allows you to guide generation towards a set of concepts. In contrast, the *negative-prompt* allows you guide the bot away from a set of concepts. Both the *prompt* and *negative-prompt* work best when provided by a series of comma-separated phrases or words. The words at the start of each list have a greater weight, so make sure to put key concepts first.
 
-**Example:** *prompt*:  *negative-prompt*: 
+**Example:** *prompt*: female elven monk, black clothing, strong, assassin *negative-prompt*: bald, asian, large breasts, weapon, staff
 
 You may wish to make use of the `/prompt` feature of the bot, which can take a body of text (story/description/etc) and constructs the *prompt* component for you.
 
