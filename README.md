@@ -15,7 +15,7 @@ You may wish to make use of the `/prompt` feature of the bot, which can take a b
 
 ## Step 2: Generate the images
 
-It's time to generate your images by using `/img generate`. I recommend choosing a *gen-style* which helps to guide the AI towards a particular style or genre. It does not always improve the image, but it will help to produce stylistically consistent images.
+It's time to generate your images by using `/img generate`. I recommend choosing a *gen-style* which helps to guide the AI towards a particular style or genre. It doesn't always improve the image, but it may help to produce stylistically consistent images.
 
 **Example**: `/img generate prompt: female elven monk, black clothing, strong, assassin negative-prompt: bald, asian, large breasts, weapon, staff`
 
