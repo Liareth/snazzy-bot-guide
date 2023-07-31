@@ -46,5 +46,5 @@ Once you've found the final image that you want to use (which may take more pass
 
 There are a bunch of advanced features! I won't explain them all, yet, but here are some examples:
 
-`/img generate` takes *inspiration*, which takes an initial image to generate a new one based off, and *seed*, which you can use to get deterministic results.
-`/img variations` can take *prompt-guidance* and *negative-prompt-guidance*, which can help to e.g. change the hair color or make small tweaks during the variation process.
+* `/img generate` takes *inspiration*, which takes an initial image to generate a new one based off, and *seed*, which you can use to get deterministic results.
+* `/img variations` takes *prompt-guidance* and *negative-prompt-guidance*, which can help to make subtle tweaks to the image, for example changing hair or eye colour.
