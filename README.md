@@ -34,7 +34,7 @@ Once you've found an image you like, you may wish to create variations of that i
 ![](examples/monk_var_5_2.png)      | ![](examples/monk_var_4_2.png)    | ![](examples/monk_var_3_2.png)    | ![](examples/monk_var_2_2.png)    | ![](examples/monk_var_1_2.png)
 ![](examples/monk_var_5_3.png)      | ![](examples/monk_var_4_3.png)    | ![](examples/monk_var_3_3.png)    | ![](examples/monk_var_2_3.png)    | ![](examples/monk_var_1_3.png)
 
-## Step 3: Upscale your image
+## Step 4: Upscale your image
 
 Once you've found the final image that you want to use (which may take more passes, variations on variations, and you may wish to manually touch up the image too) upscale it using `/img upscale`, which will upscale it into 4k.
 
