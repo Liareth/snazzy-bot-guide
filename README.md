@@ -36,7 +36,7 @@ Once you've found an image you like, you may wish to create variations of that i
 
 ## Step 4: Upscale your image
 
-Once you've found the final image that you want to use (which may take further passes, and you may wish to manually touch up the image too) upscale it using `/img upscale`, which will upscale it into 4k.
+Once you've found the final image that you want to use (which may take additional passes, and you may wish to manually touch up the image too) upscale it using `/img upscale`, which will upscale it into 4k.
 
 |           Upscaled                |  
 :----------------------------------:|
