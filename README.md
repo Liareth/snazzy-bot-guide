@@ -42,6 +42,16 @@ You may upscale the image by using `/img upscale`, which will increases the reso
 :----------------------------------:|
 ![](examples/monk_upscaled.png)
 
+
+## Warnings
+
+The bot is capable of producing nudity. I have introduced some safeguards, but they are not perfect. Please only generate images that are suitable for your current Discord server. Presuming this is on the Arelith public Discord, that means PG-13 only.
+
+* Accidentally nudity can sometimes happen: if it does, I recommend informing a moderator so they can remove it, and tweaking your prompt accordingly (hint: you can add *naked, nude, breasts*, etc to negative-prompt to make this less likely).
+* If you intentionally bait the AI to produce booba then it will be treated by the moderators as if you were sharing booba from your degenerate booba stash. In other words, you'll get in trouble, so don't do it.
+
+The bot is currently hosted on my GPU (when it is available) and on the cloud (when it is not). Depending on usage, I may change the amount of images that are generated for every command.
+
 ## Advanced usage
 
 There are a bunch of advanced features! I won't explain them all, yet, but here are some examples:
